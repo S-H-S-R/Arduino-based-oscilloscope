@@ -1,0 +1,60 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\my g code simulator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\Desktop\my g code simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\my g code simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\my g code simulator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\my g code simulator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\my g code simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\my g code simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lenovo\Desktop\my g code simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\my g code simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\my osciloscope\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\Desktop\my osciloscope\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\my osciloscope\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\my osciloscope\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\my osciloscope\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\my osciloscope\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lenovo\Desktop\my osciloscope\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\my osciloscope\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\my osciloscope\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\Desktop\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lenovo\Desktop\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\my electronics\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\Desktop\my electronics\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\my electronics\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\urduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\Desktop\urduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\urduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\urduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\urduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lenovo\Desktop\urduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\urduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\urduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\urduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Desktop\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lenovo\Desktop\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Desktop\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\arduino projectds\my osciloscope\my osciloscope\2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
